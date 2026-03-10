@@ -23,7 +23,7 @@ The project focuses on identifying patterns, trends, and insights to support bet
 
 
 ## 📂 Repository Structure
-👉 [Main dataset and analysis](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+👉 [Dashboard analysis](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/blob/main/Vrinda-Store-Dashboard.png)
 - [README.md](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/edit/main/README.md#L19C60) → Project documentation
 
 ## 🎯 Purpose
