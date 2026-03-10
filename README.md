@@ -16,13 +16,15 @@ The project focuses on identifying patterns, trends, and insights to support bet
 - Recommendations for improving sales strategy
 
 ## 🚀 How to Use
-1. Download the Excel file: `Vrinda Store Data Analysis.xlsx`
-2. Open in Microsoft Excel.
-3. Navigate through different sheets and dashboards for insights.
+- Download the Excel file:  
+   👉 [Vrinda Store Data Analysis.xlsx](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+- Open in Microsoft Excel.
+- Navigate through different sheets and dashboards for insights.
+
 
 ## 📂 Repository Structure
-- `Vrinda Store Data Analysis.xlsx` → Main dataset and analysis
-- `README.md` → Project documentation
+👉 [Main dataset and analysis](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+- [README.md](https://github.com/aditya-g18/Vrinda-Store-Intractive-Dashboard-Using-Excel/edit/main/README.md#L19C60) → Project documentation
 
 ## 🎯 Purpose
 The analysis helps Vrinda Store management understand customer behavior and optimize sales strategies.
